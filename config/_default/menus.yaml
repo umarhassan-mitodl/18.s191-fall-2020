@@ -1,0 +1,19 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 01e14733-96ae-1255-058d-0696300d786b
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: d63150b9-6943-2991-2ba4-9782105581f5
+  name: Course Materials
+  pageRef: /pages/course-materials
+  weight: 20
+- identifier: 18fe33da-e302-e1a7-fd17-db2f79bc5561
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 30
+- identifier: 6a7273a6-6001-837d-cd7d-5b893d7ae8fd
+  name: Resources for Working in Julia
+  pageRef: /pages/resources-for-working-in-julia
+  weight: 40
