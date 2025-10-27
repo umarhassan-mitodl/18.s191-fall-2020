@@ -49,7 +49,6 @@
     "website": "18-s191-introduction-to-computational-thinking-fall-2020"
   },
   "course_title": "Introduction to Computational Thinking",
-  "hide_download": true,
   "course_description": "This is an introductory course on computational thinking. We use the Julia programming language to approach real-world problems in varied areas, applying data analysis and computational and mathematical modeling. In this class you will learn computer science, software, algorithms, applications, and mathematics as an integrated whole. Topics include image analysis, particle dynamics and ray tracing, epidemic propagation, and climate modeling.\n",
   "department_numbers": [
     "18",
@@ -62,7 +61,6 @@
     "content": "3bf92168-314a-acab-5d65-d49f5d2769ec",
     "website": "18-s191-introduction-to-computational-thinking-fall-2020"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Videos",
     "Problem Sets"
